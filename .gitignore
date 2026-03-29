@@ -6,8 +6,14 @@ __pycache__/
 # C extensions
 *.so
 
+# Outputs
+/out
+
 # UV files
 /uv.lock
+
+# MediaPipe Model Bundles
+*.task
 
 # Distribution / packaging
 .Python
